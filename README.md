@@ -142,4 +142,4 @@ cargo run -- --help
 
 ## 许可证
 
-MIT License
+GPL License
